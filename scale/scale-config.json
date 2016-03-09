@@ -1,0 +1,8 @@
+{
+    "workers": [
+        "ssabogal@pc-c220m4-r04-04.wisc.cloudlab.us"
+    ],
+    "server": "ssabogal@pc-c220m4-r04-04.wisc.cloudlab.us",
+    "forwarder": "ssabogal@pc-c220m4-r04-04.wisc.cloudlab.us",
+    "size": 20
+}
